@@ -16,7 +16,7 @@ export default function Hero() {
               <ShieldCheck className="w-4 h-4" /> Trusted by students and parents
             </span>
             <h1 className="mt-6 text-4xl sm:text-5xl font-extrabold tracking-tight text-slate-900">
-              Achieve your best with expert mentorship
+              Achieve your best with Sahil Topper
             </h1>
             <p className="mt-4 text-lg text-slate-600">
               Personalized learning plans, doubt clearing, and strategic guidance to help you top your exams.

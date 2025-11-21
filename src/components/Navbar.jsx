@@ -20,7 +20,7 @@ export default function Navbar() {
             <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-indigo-500 to-blue-600 text-white flex items-center justify-center shadow-lg">
               <GraduationCap className="w-5 h-5" />
             </div>
-            <span className="text-lg">Your Name</span>
+            <span className="text-lg">Sahil Topper</span>
           </a>
 
           <nav className="hidden md:flex items-center gap-8">

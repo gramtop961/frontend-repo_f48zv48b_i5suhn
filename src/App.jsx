@@ -18,7 +18,7 @@ function App() {
       </main>
       <footer className="border-t border-slate-200 py-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-slate-600">© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+          <p className="text-sm text-slate-600">© {new Date().getFullYear()} Sahil Topper. All rights reserved.</p>
           <div className="text-sm text-slate-600">Built with care for students aiming high.</div>
         </div>
       </footer>
